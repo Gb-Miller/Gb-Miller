@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Gabriel
 
-<!--
-**Gb-Miller/Gb-Miller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Computer Science student passionate about software development and technology.
 
-Here are some ideas to get you started:
+## 🔹 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Working with **Python, JavaScript, HTML, and CSS**
+- 📖 Continuously learning new technologies and development practices
+- ⚙️ Building projects to strengthen my skills and solve practical problems
+- 💡 Interested in programming, web development, and software engineering
+
+
+## 🎓 Current Goals
+
+- 🚀 Expand my software development knowledge
+- 🤝 Contribute to collaborative and open-source projects
+- 🏗️ Build impactful and scalable applications
+
+---
+
+✨ Feel free to explore my repositories and follow my progress as a developer!
